@@ -2,7 +2,7 @@ html{
 	background-color: black;
 	font-family: arial;
 }
-body{
+*{
 	margin: 0;
 	padding: 0;
 }
